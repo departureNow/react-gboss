@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "antd-mobile": "^2.1.8",
+    "axios": "^0.18.0",
     "babel-plugin-import": "^1.7.0",
     "blueimp-md5": "^2.10.0",
     "body-parser": "^1.18.2",
