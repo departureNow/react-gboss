@@ -19,11 +19,4 @@
 
 npm-debug.log*
 yarn-debug.log*
-yarn-error.log*
-server/appRouter.js
-server/models.js
-src/api/
-src/asserts/
-src/components/logo/logo.css
-src/components/logo/logo.css.map
-src/utils/
+
